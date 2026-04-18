@@ -26,8 +26,7 @@
 📂 目录结构
 请确保您的插件目录结构如下：
 
-Plaintext
-/usr/plugins/TinyMCE8/
+plugins/TinyMCE8/
 
 ├── tinymce/               # [可选] TinyMCE 8 核心程序文件夹 (本地模式必需)
 
