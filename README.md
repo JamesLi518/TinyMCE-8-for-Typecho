@@ -28,10 +28,15 @@
 
 Plaintext
 /usr/plugins/TinyMCE8/
+
 ├── tinymce/               # [可选] TinyMCE 8 核心程序文件夹 (本地模式必需)
+
 ├── langs/
+
 │   └── zh_CN.js           # 中文语言包
+
 ├── Plugin.php             # 插件核心逻辑
+
 └── README.md              # 本说明文件
 
 🚀 安装步骤
